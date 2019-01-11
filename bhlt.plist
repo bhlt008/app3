@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://www.wh18888.com/wh/wh.0.0.1.ipa</string>
+                    <string>http://www.bhlt03.com/h3/bhlt.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -19,7 +19,7 @@
                     <key>needs-shine</key>
                     <false/>
                     <key>url</key>
-                    <string>http://vip.wh58888.com/app/img/icon.png</string>
+                    <string>http://www.bhlt03.com/h3/style/images/index/MINLOGO.png</string>
                 </dict>
                 <dict>
                     <key>kind</key>
@@ -27,7 +27,7 @@
                     <key>needs-shine</key>
                     <false/>
                     <key>url</key>
-                    <string>http://vip.wh58888.com/app/img/icon.png</string>
+                    <string>http://www.bhlt03.com/h3/style/images/index/MINLOGO.png</string>
                 </dict>
             </array>
             <key>metadata</key>
@@ -39,7 +39,7 @@
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>万鸿娱乐</string>
+                <string>碧海蓝天</string>
             </dict>
         </dict>
     </array>
